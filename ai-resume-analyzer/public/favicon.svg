@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <rect width="256" height="256" fill="#000000"/>
+  <g fill="#ffffff">
+    <!-- Document/Resume icon -->
+    <rect x="60" y="40" width="136" height="176" rx="8" stroke="#ffffff" stroke-width="2" fill="none"/>
+    <!-- Lines representing text -->
+    <line x1="85" y1="70" x2="171" y2="70" stroke="#ffffff" stroke-width="2"/>
+    <line x1="85" y1="95" x2="171" y2="95" stroke="#ffffff" stroke-width="2"/>
+    <line x1="85" y1="120" x2="171" y2="120" stroke="#ffffff" stroke-width="2"/>
+    <line x1="85" y1="145" x2="145" y2="145" stroke="#ffffff" stroke-width="2"/>
+    <!-- AI spark indicator -->
+    <circle cx="190" cy="50" r="12" fill="#4f46e5" opacity="0.8"/>
+    <circle cx="190" cy="50" r="6" fill="#ffffff"/>
+  </g>
+</svg>
